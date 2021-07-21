@@ -54,6 +54,7 @@ namespace ExercicioBanco
                         cb.Sacar(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
                         break;
                     case 0:
+                        Console.WriteLine("Saindo..");
                         Environment.Exit(0);
                         break;
                     default:
