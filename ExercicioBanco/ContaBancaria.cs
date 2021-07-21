@@ -27,7 +27,7 @@ namespace ExercicioBanco
 
         public override string ToString()
         {
-            return "\nNuméro da conta: " + NumeroConta 
+            return "\nNúmero da conta: " + NumeroConta 
                 + "\nPessoa Física: " + Nome 
                 + "\nSaldo: $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
