@@ -1,0 +1,13 @@
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.exe
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.deps.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfo.cs
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.genruntimeconfig.cache
